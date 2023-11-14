@@ -1,0 +1,13 @@
+pandas
+cobra==0.22.0
+escher==1.7.3
+numpy
+matplotlib
+jinja2==2.11.3
+MarkupSafe==2.0.1
+nbconvert==6.3.0
+pipdeptree
+depinfo==1.7.0
+memote
+cameo
+mewpy
