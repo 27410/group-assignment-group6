@@ -13,4 +13,5 @@ The text of the report is contained in the file called [Report.ipynb](Report.ipy
 - [5_DFBA.ipynb](5_DFBA.ipynb) - contains batch cultivation simulations using dynamic flux balance analysis.
 - [6_Optimisation_target_analysis.ipynb](6_Optimisation_target_analysis.ipynb) - contains model optimization attempts using OptGene and OptKnock.
 - [7_Co-factor_swap.ipynb](7_Co-factor_swap.ipynb) - contains a co-factor swapping optimization analysis. \
+
 The figures from the analyses are located in the "figures" folder, the original and modified models used in this work are located in the "data" folder, and the files for the Memote analyses are located in the "memote" folder.
